@@ -1,0 +1,9 @@
+Warning[203] D:\MICROMPLAB\EXAMENNOMBRE.X\NOMBRE.ASM 6 : Found opcode in column 1. (GOTO)
+Message[302] D:\MICROMPLAB\EXAMENNOMBRE.X\NOMBRE.ASM 22 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] D:\MICROMPLAB\EXAMENNOMBRE.X\NOMBRE.ASM 89 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\EXAMENNOMBRE.X\NOMBRE.ASM 92 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\EXAMENNOMBRE.X\NOMBRE.ASM 94 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\EXAMENNOMBRE.X\NOMBRE.ASM 156 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\EXAMENNOMBRE.X\NOMBRE.ASM 159 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\EXAMENNOMBRE.X\NOMBRE.ASM 161 : Using default destination of 1 (file).
+Warning[205] D:\MICROMPLAB\EXAMENNOMBRE.X\NOMBRE.ASM 165 : Found directive in column 1. (END)
